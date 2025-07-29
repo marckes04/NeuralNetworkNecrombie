@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 692589ec3f776204498e547e51dc407f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BasicPowerupExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 339
+        width: 254
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb95823ca3f0cc449aca3e5d941a61e7
+      internalID: 217964872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicPowerupExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 347
+        width: 259
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f02c27f9a1340469788413a4016ea8
+      internalID: 1774736464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicPowerupExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 299
+        width: 399
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81452ef1d576c4b45b5ad753dde27a8b
+      internalID: -963050279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicPowerupExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 264
+        width: 473
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb8debd6ab9e34280e75fbcf297662
+      internalID: -1330126063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicPowerupExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 264
+        width: 390
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ffd8e5a0f1f7844946ea30ce69dcfc
+      internalID: 759664736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicPowerupExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 220
+        width: 416
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d146e7dce4cc48a62d2e6a4aae29a
+      internalID: 1812147249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 827e056e7dfa4be46a9310f32eca01e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BasicPowerupExplosion_0: 217964872
+      BasicPowerupExplosion_1: 1774736464
+      BasicPowerupExplosion_10: -1372369010
+      BasicPowerupExplosion_11: -655410666
+      BasicPowerupExplosion_12: 1657237385
+      BasicPowerupExplosion_13: 577001161
+      BasicPowerupExplosion_14: -1589078660
+      BasicPowerupExplosion_15: 1664897124
+      BasicPowerupExplosion_16: 409943008
+      BasicPowerupExplosion_17: 175268773
+      BasicPowerupExplosion_18: -1398144683
+      BasicPowerupExplosion_19: -87523521
+      BasicPowerupExplosion_2: -963050279
+      BasicPowerupExplosion_20: -510618085
+      BasicPowerupExplosion_21: 608219784
+      BasicPowerupExplosion_22: 1347008615
+      BasicPowerupExplosion_23: -962564415
+      BasicPowerupExplosion_24: 1851590514
+      BasicPowerupExplosion_25: -1656191654
+      BasicPowerupExplosion_26: -825817857
+      BasicPowerupExplosion_27: 1494925716
+      BasicPowerupExplosion_28: 370078957
+      BasicPowerupExplosion_29: 953410103
+      BasicPowerupExplosion_3: -1330126063
+      BasicPowerupExplosion_30: 406736462
+      BasicPowerupExplosion_31: 887613123
+      BasicPowerupExplosion_32: 1268761971
+      BasicPowerupExplosion_33: -1628684505
+      BasicPowerupExplosion_34: 446674316
+      BasicPowerupExplosion_35: 688359588
+      BasicPowerupExplosion_36: -943112366
+      BasicPowerupExplosion_37: -170951644
+      BasicPowerupExplosion_38: -1288396765
+      BasicPowerupExplosion_39: -980820446
+      BasicPowerupExplosion_4: 759664736
+      BasicPowerupExplosion_40: 484668640
+      BasicPowerupExplosion_41: -1784927745
+      BasicPowerupExplosion_42: 1991842629
+      BasicPowerupExplosion_43: -1702597074
+      BasicPowerupExplosion_44: 1694853010
+      BasicPowerupExplosion_45: -825054133
+      BasicPowerupExplosion_46: 1885244889
+      BasicPowerupExplosion_47: -1553676358
+      BasicPowerupExplosion_5: 1812147249
+      BasicPowerupExplosion_6: 1269801538
+      BasicPowerupExplosion_7: 2063596354
+      BasicPowerupExplosion_8: 91862000
+      BasicPowerupExplosion_9: -730793806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

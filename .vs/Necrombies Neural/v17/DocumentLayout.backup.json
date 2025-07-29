@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|d:\\master degree project\\neuralnetworknecrombie\\necrombies neural\\assets\\scripts\\enemy\\spawnzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\spawnzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\assets\\scripts\\enemy\\neuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\neuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\assets\\scripts\\enemy\\zombiemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\zombiemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\assets\\scripts\\enemy\\enemylife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemylife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\assets\\scripts\\enemy\\enemyanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180DC80-813B-4B41-8D66-7020B1F758D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnZombie.cs",
+              "DocumentMoniker": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\SpawnZombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SpawnZombie.cs",
+              "ToolTip": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\SpawnZombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SpawnZombie.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:25:03.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyLife.cs",
+              "DocumentMoniker": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\EnemyLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyLife.cs",
+              "ToolTip": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\EnemyLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyLife.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:20:05.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeuralNetwork.cs",
+              "DocumentMoniker": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\NeuralNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\NeuralNetwork.cs",
+              "ToolTip": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\NeuralNetwork.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\NeuralNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:38:12.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZombieMovement.cs",
+              "DocumentMoniker": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\ZombieMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\ZombieMovement.cs",
+              "ToolTip": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\ZombieMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\ZombieMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:11:44.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAnimations.cs",
+              "DocumentMoniker": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "ToolTip": "D:\\Master Degree Project\\NeuralNetworkNecrombie\\Necrombies Neural\\Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:01:32.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
